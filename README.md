@@ -1,11 +1,3 @@
-<!-- Hi there 👋 -->
-
-<!-- - 👋 Hi, I’m Mohil Thummar
-- 👀 I’m interested in flutter and dart
-- 🌱 I’m currently learning advance flutter
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me @sq.mohil@gmail.com -->
-
 ![](./Cover/Cover.jpg)
 
 > ### Hi there 👋
@@ -55,7 +47,7 @@
 
 
 <!--
-**vishwas-kr/vishwas-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MohilSQ/MohilSQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
