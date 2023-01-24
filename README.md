@@ -30,6 +30,7 @@
 <a href="https://www.instagram.com/mr__mohil/">
     <img align="left"  src="https://img.shields.io/badge/-Instagram-555?style=flat&logo=Instagram" />
 </a>
+<br>
 
 ## 📈 GitHub Activity Graph:
 <table>
