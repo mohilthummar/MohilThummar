@@ -1,22 +1,17 @@
 Hi there 👋
 
-- 👋 Hi, I’m Mohil Thummar
+<!-- - 👋 Hi, I’m Mohil Thummar
 - 👀 I’m interested in flutter and dart
 - 🌱 I’m currently learning advance flutter
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me @sq.mohil@gmail.com
-
-<!---
-MohilSQ/MohilSQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me @sq.mohil@gmail.com -->
 
 ![](./Cover/Cover.jpg)
 
 > ### Hi there 👋
-> <b>I'm a 19 year old self-taught programmer. I'm currenntly learing Flutter and looking to collaborate with others on projetcs related to Building Apps.</b>
+> <b>I'm a 21 year old self-taught programmer. I'm currenntly learing advance Flutter and looking to collaborate with others on projetcs related to Building Apps.</b>
 
-![](https://komarev.com/ghpvc/?username=vishwas-kr&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=MohilSQr&color=lightgrey)
 
 ## 🛠️ Tech Stack:
 ![Flutter](https://img.shields.io/badge/-Flutter-555?style=flat&logo=Flutter&logoColor=5CC3F0)&nbsp;
@@ -48,11 +43,11 @@ You can click the Preview link to take a look at your changes.
 ## 📈 GitHub Activity Graph:
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/vishwas-kr#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vishwas-kr&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vishwas-kr#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vishwas-kr&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/vishwas-kr#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwas-kr&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vishwas-kr#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwas-kr&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td align="center"><a href="https://github.com/MohilSQ#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=MohilSQ&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/MohilSQ#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=MohilSQ&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/MohilSQ#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohilSQ&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/MohilSQ#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohilSQ&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/vishwas-kr#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwas-kr&theme=default"/></a><a href="https://github.com/vishwas-kr#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwas-kr&theme=tokyonight"/></a></td>
+        <td align="center"><a href="https://github.com/MohilSQ#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohilSQ&theme=default"/></a><a href="https://github.com/MohilSQ#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohilSQ&theme=tokyonight"/></a></td>
     </tr>
 </table>
 
