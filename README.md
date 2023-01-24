@@ -1,4 +1,4 @@
-Hi there 👋
+<!-- Hi there 👋 -->
 
 <!-- - 👋 Hi, I’m Mohil Thummar
 - 👀 I’m interested in flutter and dart
@@ -14,27 +14,29 @@ Hi there 👋
 ![](https://komarev.com/ghpvc/?username=MohilSQr&color=lightgrey)
 
 ## 🛠️ Tech Stack:
-![Flutter](https://img.shields.io/badge/-Flutter-555?style=flat&logo=Flutter&logoColor=5CC3F0)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-555?style=flat&logo=Firebase&logoColor=FFBF00)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-555?style=flat&logo=Dart&logoColor=2BB1EE)&nbsp;
-![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;\
+![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-555?style=flat&logo=Dart&logoColor=2BB1EE)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-555?style=flat&logo=Flutter&logoColor=5CC3F0)&nbsp;
+![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Json](https://img.shields.io/badge/-Json-555?style=flat&logo=Json)&nbsp;\
+![Firebase](https://img.shields.io/badge/-Firebase-555?style=flat&logo=Firebase&logoColor=FFBF00)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
-![Illustrator](https://img.shields.io/badge/-Illustrator-555?style=flat&logo=adobe-illustrator)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;\
+![Figma](https://img.shields.io/badge/-Figma-555?style=flat&logo=figma)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-555?style=flat&logo=android%20studio)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-555?style=flat&logo=Postman&logoColor=FF5F1F)&nbsp;
-![Json](https://img.shields.io/badge/-Json-555?style=flat&logo=Json)&nbsp;
+
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-<a href="https://www.linkedin.com/in/vishwas-kumar-b48817223/" target="blank" >
+<a href="https://www.linkedin.com/in/mohil-thummar-2442a0214/" target="blank" >
   <img align="left"  src="https://img.shields.io/badge/-Linkedin-555?style=flat&logo=Linkedin" />
   </a>
-  <a href="mailto:vishwaskumar445@gmail.com">
+  <a href="mailto:sq.mohil@gmail.com">
   <img align="left"  src="https://img.shields.io/badge/-Gmail-555?style=flat&logo=Gmail" />
   </a>
-  <a href="https://www.instagram.com/_mr__vishwas_/">
+  <a href="https://www.instagram.com/mr__mohil/">
     <img align="left"  src="https://img.shields.io/badge/-Instagram-555?style=flat&logo=Instagram" />
   </a>
   <br>
@@ -50,9 +52,6 @@ Hi there 👋
         <td align="center"><a href="https://github.com/MohilSQ#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohilSQ&theme=default"/></a><a href="https://github.com/MohilSQ#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohilSQ&theme=tokyonight"/></a></td>
     </tr>
 </table>
-
-
-
 
 
 <!--
