@@ -9,7 +9,7 @@
 ![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-555?style=flat&logo=Dart&logoColor=2BB1EE)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-555?style=flat&logo=Flutter&logoColor=5CC3F0)&nbsp;gi
+![Flutter](https://img.shields.io/badge/-Flutter-555?style=flat&logo=Flutter&logoColor=5CC3F0)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Json](https://img.shields.io/badge/-Json-555?style=flat&logo=Json)&nbsp;\
 ![Firebase](https://img.shields.io/badge/-Firebase-555?style=flat&logo=Firebase&logoColor=FFBF00)&nbsp;
@@ -30,7 +30,6 @@
 <a href="https://www.instagram.com/mr__mohil/">
     <img align="left"  src="https://img.shields.io/badge/-Instagram-555?style=flat&logo=Instagram" />
 </a>
-<br>
 
 ## 📈 GitHub Activity Graph:
 <table>
