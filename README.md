@@ -3,7 +3,7 @@
 > ### Hi there 👋
 > <b>I'm a 21 year old programmer. I'm currenntly learing advance Flutter and dart and looking to collaborate with others on projetcs related to Building Apps.</b>
 
-![](https://komarev.com/ghpvc/?username=MohilSQr&color=lightgrey)
+![Profile View](https://komarev.com/ghpvc/?username=MohilSQr&color=lightgrey)
 
 ## 🛠️ Tech Stack:
 ![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -20,7 +20,7 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-555?style=flat&logo=android%20studio)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-555?style=flat&logo=Postman&logoColor=FF5F1F)&nbsp;
 
-## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="30px">
 <a href="https://www.linkedin.com/in/mohil-thummar-2442a0214/" target="blank" >
     <img align="left"  src="https://img.shields.io/badge/-Linkedin-555?style=flat&logo=Linkedin" />
 </a>
@@ -30,6 +30,7 @@
 <a href="https://www.instagram.com/mr__mohil/">
     <img align="left"  src="https://img.shields.io/badge/-Instagram-555?style=flat&logo=Instagram" />
 </a>
+<br />
 
 ## 📈 GitHub Activity Graph:
 <table>
