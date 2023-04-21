@@ -3,7 +3,7 @@
 > ### Hi there 👋
 > <b>I'm a 21 year old programmer. I'm currenntly learing advance Flutter and dart and looking to collaborate with others on projetcs related to Building Apps.</b>
 
-![Profile View](https://komarev.com/ghpvc/?username=MohilSQr&color=lightgrey)
+![Profile View](https://komarev.com/ghpvc/?username=MohilThummarr&color=lightgrey)
 
 ## 🛠️ Tech Stack:
 ![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -36,29 +36,29 @@
 <table>
     <tr>
         <td align="center">
-            <a href="https://github.com/MohilSQ#gh-light-mode-only">
-                <img src="https://github-readme-stats.vercel.app/api?username=MohilSQ&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/>
+            <a href="https://github.com/MohilThummar#gh-light-mode-only">
+                <img src="https://github-readme-stats.vercel.app/api?username=MohilThummar&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/>
             </a>
-            <a href="https://github.com/MohilSQ#gh-dark-mode-only">
-                <img src="https://github-readme-stats.vercel.app/api?username=MohilSQ&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/>
+            <a href="https://github.com/MohilThummar#gh-dark-mode-only">
+                <img src="https://github-readme-stats.vercel.app/api?username=MohilThummar&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/>
             </a>
         </td>
         <td rowspan="2" align="center">
-            <a href="https://github.com/MohilSQ#gh-light-mode-only">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohilSQ&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/>
+            <a href="https://github.com/MohilThummar#gh-light-mode-only">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohilThummar&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/>
             </a>
-            <a href="https://github.com/MohilSQ#gh-dark-mode-only">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohilSQ&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/>
+            <a href="https://github.com/MohilThummar#gh-dark-mode-only">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohilThummar&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/>
             </a>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <a href="https://github.com/MohilSQ#gh-light-mode-only">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohilSQ&theme=default"/>
+            <a href="https://github.com/MohilThummar#gh-light-mode-only">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohilThummar&theme=default"/>
             </a>
-            <a href="https://github.com/MohilSQ#gh-dark-mode-only">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohilSQ&theme=tokyonight"/>
+            <a href="https://github.com/MohilThummar#gh-dark-mode-only">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohilThummar&theme=tokyonight"/>
             </a>
         </td>
     </tr>
