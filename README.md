@@ -1,7 +1,7 @@
 ![](./Cover/Cover.jpg)
 
 > ### Hi there 👋
-> <b>I'm a 21 year old programmer. I'm currenntly learing advance Flutter and dart and looking to collaborate with others on projetcs related to Building Apps.</b>
+> <b>I'm a 21 year old programmer. I'm currently learning advanced Flutter and Dart and looking to collaborate with others on projects related to Building Apps.</b>
 
 ![Profile View](https://komarev.com/ghpvc/?username=MohilThummarr&color=lightgrey)
 
